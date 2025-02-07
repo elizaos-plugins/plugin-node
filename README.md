@@ -1,3 +1,11 @@
+Deprecated plugin, moved to:
+- https://github.com/elizaos-plugins/plugin-pdf
+- https://github.com/elizaos-plugins/plugin-llama
+- https://github.com/elizaos-plugins/plugin-image
+- https://github.com/elizaos-plugins/plugin-aws-s3
+- https://github.com/elizaos-plugins/plugin-browser
+- https://github.com/elizaos-plugins/plugin-speech-tts
+
 # @elizaos/plugin-node
 
 Core Node.js plugin for Eliza OS that provides essential services and actions for file operations, media processing, and cloud integrations.
